@@ -7,9 +7,9 @@ other storage solutions:
 - _Performance_: EBS usually is significantly faster than EFS.
 - _Redundatcy_: If the data managed by `localdata` is used by multiple `Pods` then multiple copies of the data can be avoided
 
-## State
+## State of this Project
 
-This project is a _PROOF OF CONCEPT_ just barely works and should not be used in production.
+This project is a _PROOF OF CONCEPT_ that just barely works and should not be used in production.
 
 ## TODO
 
